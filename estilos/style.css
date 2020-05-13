@@ -25,6 +25,10 @@ h2 {
     color: rgb(58, 0, 112);
 }
 
+p.autor {
+    font-size: 0.8em;
+}
+
 img.lado {
     float: right;
 }
